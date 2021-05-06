@@ -6,7 +6,8 @@ I'm Meagan Ritchie and I'm a Full Stack Software Engineer. With a background in 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Active Record 
 - 👯 I’m looking to collaborate on anything ed tech related!
-- 📫 How to reach me: [<img height= "30" margin="0" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="LinkedIn">](https://www.linkedin.com/in/meagan-ritchie-tech/)
-- 😄 Pronouns: she/her
+- 📫 How to reach me:  [<img height= "20" margin_bottom="0" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="LinkedIn">](https://www.linkedin.com/in/meagan-ritchie-tech/)  [<img height= "20" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" alt="Email logo">](mailto:meaganritchie@gmail.com)
+- 😄 Pronouns: she/her </br>
 
-<img height="30" src="https://www.pngix.com/pngfile/middle/150-1506301_computer-icons-logo-brand-javascript-angle-javascript-logo.png"> <img height="30" src="https://img.favpng.com/4/13/16/ruby-on-rails-logo-programming-language-rubygems-png-favpng-WhQbCrZxcK4rVV4XP3x5JFYTF.jpg"> <img height="30" src="https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png">
+
+<img style="align-content: right" height="30" src="https://www.pngix.com/pngfile/middle/150-1506301_computer-icons-logo-brand-javascript-angle-javascript-logo.png"> <img height="30" src="https://img.favpng.com/4/13/16/ruby-on-rails-logo-programming-language-rubygems-png-favpng-WhQbCrZxcK4rVV4XP3x5JFYTF.jpg"> <img height="30" src="https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png"></div>
