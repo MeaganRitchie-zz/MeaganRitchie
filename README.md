@@ -8,4 +8,4 @@ I'm Meagan Ritchie and I'm a Full Stack Software Engineer. With a background in 
 - 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/meagan-ritchie-tech/)
 - 😄 Pronouns: she/her
 
-<img height="20" src="https://www.pngix.com/pngfile/middle/150-1506301_computer-icons-logo-brand-javascript-angle-javascript-logo.png"> <im height="20" src="https://img.favpng.com/4/13/16/ruby-on-rails-logo-programming-language-rubygems-png-favpng-WhQbCrZxcK4rVV4XP3x5JFYTF.jpg">
+<img height="20" src="https://www.pngix.com/pngfile/middle/150-1506301_computer-icons-logo-brand-javascript-angle-javascript-logo.png"> <img height="20" src="https://img.favpng.com/4/13/16/ruby-on-rails-logo-programming-language-rubygems-png-favpng-WhQbCrZxcK4rVV4XP3x5JFYTF.jpg">
