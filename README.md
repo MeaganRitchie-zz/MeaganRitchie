@@ -1,3 +1,6 @@
+
+
+![165190507_199304854915742_4001412034033901259_n](https://user-images.githubusercontent.com/78323472/117351413-ef54a380-ae6a-11eb-8fa7-b0bfccdd7381.jpeg)
 ### Hi there 👋
 
 I'm Meagan Ritchie and I'm a Full Stack Software Engineer. With a background in elementary education, my passion for learning and creating led me to the tech world. My goal is to create and work with people that are making the world better through technology.
