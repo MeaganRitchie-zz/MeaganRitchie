@@ -11,7 +11,7 @@ With a background in elementary education, my passion for learning and creating 
  
 - 👯 I’m looking to collaborate on **anything ed tech related!
 
-- 📫 How to reach me:  [<img height= "20" margin_bottom="0" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="LinkedIn">](https://www.linkedin.com/in/meagan-ritchie-tech/)  [<img height= "20" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" alt="Email logo">](mailto:meaganritchie@gmail.com)
+- 📫 How to reach me:  [<img height= "25" margin_bottom="0" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="LinkedIn">](https://www.linkedin.com/in/meagan-ritchie-tech/)  [<img height= "25" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" alt="Email logo">](mailto:meaganritchie@gmail.com)
 
 - 😄 Pronouns: she/her </br>
 
