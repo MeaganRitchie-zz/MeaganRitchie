@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Meagan</h2>
 
 
-I'm a Full Stack Software Engineer. With a background in elementary education, my passion for learning and creating led me to the tech world. My goal is to create and work with people that are making the world better through technology.
+With a background in elementary education, my passion for learning and creating led me to the tech world. My goal is to create and work with people that are making the world better through technology.
 
 
 - 🔭 I’m currently working on my project, **Monster Management!
