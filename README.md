@@ -5,11 +5,11 @@
 With a background in elementary education, my passion for learning and creating led me to the tech world. My goal is to create and work with people that are making the world better through technology.
 
 
-- 🔭 I’m currently working on my project, **Monster Management!
+- 🔭 I’m currently working on my project, **Monster Management!**
 
-- 🌱 I’m currently learning **Vue.js and Node with Express.
+- 🌱 I’m currently learning **Vue.js and Node with Express.**
  
-- 👯 I’m looking to collaborate on **anything ed tech related!
+- 👯 I’m looking to collaborate on **anything ed tech related!**
 
 - 📫 How to reach me:  [<img height= "25" margin_bottom="0" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="LinkedIn">](https://www.linkedin.com/in/meagan-ritchie-tech/)  [<img height= "25" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" alt="Email logo">](mailto:meaganritchie@gmail.com)
 
