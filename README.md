@@ -5,9 +5,9 @@
 With a background in elementary education, my passion for learning and creating led me to the tech world. My goal is to create and work with people that are making the world better through technology.
 
 
-- 🔭 I’m currently working on my project, **Monster Management!**
+- 🔭 I’m currently working for **aware3**.
 
-- 🌱 I’m currently learning **Vue.js and Node with Express.**
+- 🌱 I’m currently learning **Vue.js.**
  
 - 👯 I’m looking to collaborate on **anything ed tech related!**
 
